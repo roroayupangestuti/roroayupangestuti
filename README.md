@@ -3,6 +3,7 @@
 I am Roro Ayu Pangestuti, some people call me Roro. I am studying at Universitas Pembangunan Nasional Veteran Jawa Timur, Surabaya City, East Java. My major is Information System.
 
 🌱 I'd like to learn about System Analyst, Machine Learning, also Data Mining. I'm currently learning in Bangkit 2023 too, with path Machine Learning.
+
 📫 How to reach me: Send me an Email: roroayupangestuti29@gmail.com
 
 <!--
